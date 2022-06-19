@@ -1,12 +1,13 @@
-> This is ***Whatsapp 2.0*** with 1-1 Messaging, Live Status which is a  [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ This is ***Whatsapp 2.0*** with 1-1 Messaging, Live Status which is a  [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 TECH used in the build: 
 1. NextJS
 2. Server Side Rendering
-3. Material UI
-4. Firebase Google Authentication
-5. Firebase's firestore realtime DataBase
-6. Vercel Hosting
+3. Styled Components
+4. Material UI
+5. Firebase Google Authentication
+6. Firebase's firestore realtime DataBase
+7. Vercel Hosting
 
 WEBSITE LINK: https://whatsapp-v2-ritwikshaw27.vercel.app/
 
