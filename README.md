@@ -1,4 +1,4 @@
-This is **Whatsapp 2.0** with 1-1 Messaging, Live Status which is a  [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is ***Whatsapp 2.0*** with 1-1 Messaging, Live Status which is a  [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 TECH used in the build: 
 1. NextJS
